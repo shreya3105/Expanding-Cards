@@ -1,10 +1,7 @@
 # Expanding-Cards
-The project aims to develop a website page that features a rotating bar controlled by buttons.This interactive element will enhance the user experience and provide visual appeal to the webpage. Additionally,JavaScript functions will be implemented to handle the rotation and button functionality.
-
-Key Features:
-1.Rotating Bar:The main focus of the project is to create a rotating bar that can rotate based on user input.
-2.Buttons:Users will have control over the rotation direction and speed using designated buttons.
-3.Interactive Design:The rotating bar will have a visually appealing design, and the buttons will respond to user actions by changing appearance or indicating the selected option.
+The project aims to develop a website page that features expanding cards that display additional information when hovered over. This interactive element will provide users with a dynamic and engaging way to access more details about a particular item or topic.
+Additionally, JavaScript functions will be implemented to handle the hover functionality and control the expansion of the cards.
+The main focus of the project is to create a series of expanding cards that reveal additional information when hovered over. Users will initiate the expansion of the cards by hovering over them with their cursor. Each card will be associated with a hover button that appears when the user hovers over the card, enabling them to trigger the expansion effect.
 
 JavaScript Functions:
-JavaScript functions will be implemented to handle the rotation of the bar.These functions will apply transformations or animations to achieve the desired smooth rotation effect and also will be used to control the buttons and update the rotation direction and speed variables.
+JavaScript functions will be used to control the hover effect and ensure smooth interaction with the cards. These functions will also handle any additional logic or effects associated with the hover buttons or the cards themselves.
